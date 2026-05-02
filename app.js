@@ -23,14 +23,14 @@ import {
 } from "https://www.gstatic.com/firebasejs/11.7.1/firebase-database.js";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBDCr4lwOF-nByznKkrN9XYmnTmJQpeo88",
-  authDomain: "nomis-b5dd7.firebaseapp.com",
-  projectId: "nomis-b5dd7",
-  storageBucket: "nomis-b5dd7.firebasestorage.app",
-  messagingSenderId: "840145807175",
-  appId: "1:840145807175:web:a46982ba6789d53dc54e62",
-  measurementId: "G-JN9F4RBC3D",
-  databaseURL: "https://nomis-b5dd7-default-rtdb.firebaseio.com"
+  apiKey: "AIzaSyBhC_VXasNg_zpGEm-zkHYC5Ou3IfGM490",
+  authDomain: "nobai-a30a3.firebaseapp.com",
+  projectId: "nobai-a30a3",
+  storageBucket: "nobai-a30a3.firebasestorage.app",
+  messagingSenderId: "636844032643",
+  appId: "1:636844032643:web:5f33be849b6362a66351b6",
+  measurementId: "G-Q0W1KLFX7J",
+  databaseURL: "https://nobai-a30a3-default-rtdb.firebaseio.com/"
 };
 
 const firebaseApp = initializeApp(firebaseConfig);
